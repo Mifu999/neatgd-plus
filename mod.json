@@ -1,0 +1,31 @@
+{
+    "geode": "5.10.1",
+    "gd": {
+        "win": "2.2081",
+        "mac": "2.2081",
+        "android": "2.2081"
+    },
+    "id": "mifu.neatgd",
+    "name": "NEATGD",
+    "version": "v3.0.0",
+    "developers": ["Mifu"],
+    "description": "Trains an AI to play GD - three modes (NEAT, Climber, Hybrid), orb/pad/portal sensing, softlock escape, transferable sessions and a network viewer.",
+    "dependencies": {
+        "geode.node-ids": ">=1.19.0",
+        "cvolton.level-id-api": ">=2.0.0"
+    },
+    "links": {
+        "source": "https://github.com/Mifu999/neatgd-plus"
+    },
+    "tags": [
+        "gameplay",
+        "offline",
+        "utility",
+        "cheat"
+    ],
+    "resources": {
+        "files": [
+            "resources/itzar.png"
+        ]
+    }
+}
